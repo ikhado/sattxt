@@ -1,0 +1,5 @@
+torch==2.7.0
+torchvision==0.22.0
+
+transformers==4.44.2 #as LLM2Vec requirements
+peft==0.18.1
