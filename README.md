@@ -13,7 +13,7 @@
 <p>
   <a href="https://arxiv.org/abs/2602.22613"><img src="https://img.shields.io/badge/arXiv-2602.22613-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/ikhado/sattxt"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow" alt="Hugging Face"></a>
-  <a href="https://github.com/ikhado/sattxt"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
+  <a href="https://ikhado.github.io/sattxt/"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
 </p>
 
 ---
