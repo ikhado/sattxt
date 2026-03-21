@@ -134,6 +134,8 @@ We use evaluation scripts from:
 
 We also use LLMs (such as ChatGPT and Claude) for code refactoring.
 
+This work was supported in part by the Australian Government through the Australian Research Council’s Discovery Projects Funding Scheme under Project DP220101634, and by the NVIDIA Academic Grant Program.
+
 ---
 <p>
   We welcome contributions and issues to further improve SATtxt.
